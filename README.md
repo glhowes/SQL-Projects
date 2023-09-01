@@ -1,1 +1,2 @@
-# SQL projects from my Codecademy SQL certificate
+# SQL-Projects
+Projects from my Codecademy SQL certificate
